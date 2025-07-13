@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="todolist.png" alt="UI" width="600">
+  <img src="Todolist.png" alt="UI" width="600">
 </p>
 📋 README Contents:
 �� Project Overview
